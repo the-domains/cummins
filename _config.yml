@@ -1,0 +1,28 @@
+name: cummins
+favicon: null
+layout_spectrum: 0.415261808084324
+typography_spectrum: 0.08252597833052278
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.995183203369379
+  lightness: 0.914665405638516
+  saturation: 0.8156615698244423
+  rhythmicContrast: 0.7840709462761879
+purpose: []
