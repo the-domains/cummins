@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Hello, World.'
-datePublished: '2016-03-09T18:38:59.657Z'
-dateModified: '2016-03-09T18:37:29.028Z'
+datePublished: '2016-03-09T19:01:30.206Z'
+dateModified: '2016-03-09T19:01:05.529Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-09-hello-world.md
@@ -24,4 +24,4 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8de99a9-3b7a-4251-919b-8619578782cc.jpg)
 
-Hello, World.
+So, yes.  Wendy and I are beta testing thegrid.io, mostly just to take a peek at the emerging technology.  This
