@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[cummins]]></title>
         <description><![CDATA[cummins]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cummins/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 18:37:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 18:39:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cummins/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8de99a9-3b7a-4251-919b-8619578782cc.jpg">]]></description>
-            <link>undefinedhello-world/index.html</link>
+            <link>https://thegrid.ai/cummins/hello-world/index.html</link>
             <guid isPermaLink="false">75ad3f7e-b5a5-4ca5-8547-72aa8601ff07</guid>
-            <pubDate>Wed, 09 Mar 2016 18:37:21 GMT</pubDate>
+            <pubDate>Wed, 09 Mar 2016 18:38:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
