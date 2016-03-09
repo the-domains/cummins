@@ -1,6 +1,6 @@
 name: michael.cummins
 favicon: null
-layout_spectrum: 0.62681
+layout_spectrum: 0.69341
 typography_spectrum: 0.55045
 title: Michael Cummins explores thegrid.ai
 cta:
@@ -24,6 +24,6 @@ color:
     - '#dc0100'
   brandStrength: 0.375
   lightness: 0.875
-  saturation: 0.0625
-  rhythmicContrast: 0
+  saturation: 0.1875
+  rhythmicContrast: 0.75
 purpose: []
