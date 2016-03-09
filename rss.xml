@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[cummins]]></title>
-        <description><![CDATA[cummins]]></description>
+        <title><![CDATA[The Personal website of Michael Cummins]]></title>
+        <description><![CDATA[The Personal website of Michael Cummins]]></description>
         <link>https://thegrid.ai/cummins/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 18:39:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 19:02:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cummins/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8de99a9-3b7a-4251-919b-8619578782cc.jpg">]]></description>
             <link>https://thegrid.ai/cummins/hello-world/index.html</link>
             <guid isPermaLink="false">75ad3f7e-b5a5-4ca5-8547-72aa8601ff07</guid>
-            <pubDate>Wed, 09 Mar 2016 18:38:59 GMT</pubDate>
+            <pubDate>Wed, 09 Mar 2016 19:01:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
