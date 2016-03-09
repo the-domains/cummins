@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "So, yes. \_Wendy and I are beta testing thegrid.io, mostly just to take a peek at the emerging technology."
-datePublished: '2016-03-09T23:31:53.204Z'
-dateModified: '2016-03-09T23:31:39.277Z'
+datePublished: '2016-03-09T23:40:16.925Z'
+dateModified: '2016-03-09T23:40:16.641Z'
 title: Checking out THEGRID.IO
 author: []
 sourcePath: _posts/2016-03-09-hello-world.md
