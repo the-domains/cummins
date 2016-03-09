@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "So, yes. \_Wendy and I are beta testing thegrid.io, mostly just to take a peek at the emerging technology. \_This"
-datePublished: '2016-03-09T19:11:51.147Z'
-dateModified: '2016-03-09T19:08:33.036Z'
+datePublished: '2016-03-09T19:13:06.291Z'
+dateModified: '2016-03-09T19:13:06.024Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-09-hello-world.md
@@ -24,4 +24,4 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8de99a9-3b7a-4251-919b-8619578782cc.jpg)
 
-So, yes.  Wendy and I are beta testing thegrid.io, mostly just to take a peek at the emerging technology.  This
+So, yes.  Wendy and I are beta testing thegrid.io, mostly just to take a peek at the emerging technology.
