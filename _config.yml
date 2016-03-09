@@ -1,6 +1,6 @@
 name: cummins
 favicon: null
-layout_spectrum: 0.79723
+layout_spectrum: 0.59155
 typography_spectrum: 0.65256
 title: A Personal website for Michael Cummins
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#f4feff'
-    - '#00000c'
-    - '#444d52'
-    - '#778890'
-    - '#dc0100'
+    - '#fbffff'
+    - '#010008'
+    - '#e09d06'
+    - '#737a73'
+    - '#3cd3fe'
   brandStrength: 0.5
   lightness: 0.875
   saturation: 0.0625
