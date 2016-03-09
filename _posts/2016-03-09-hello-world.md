@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Hello, World.'
-datePublished: '2016-03-09T19:08:23.919Z'
-dateModified: '2016-03-09T19:01:36.859Z'
+description: "So, yes. \_Wendy and I are beta testing thegrid.io, mostly just to take a peek at the emerging technology. \_This"
+datePublished: '2016-03-09T19:11:51.147Z'
+dateModified: '2016-03-09T19:08:33.036Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-09-hello-world.md
